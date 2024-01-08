@@ -12,6 +12,6 @@ I will update these references as the course progresses with additional resource
 
 I do not require that you have a physical textbook for this class, however there are some that we will use extensively. Each are available online from the UCSC library.
 
-* The main book we will use is [The Art of Multiprocessor Programming](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/15r5l0d/alma9914804965806531). There is a new edition (released in 2020). I am working with the library to find options for making this available online.
+* The main book we will use is [The Art of Multiprocessor Programming](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/h824t0/WorldCat1376835717). 
 * For those of you who have not taken CSE 120, you may find [Computer Architecture: A Quantitative Approach](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/15r5l0d/alma9914804950506531) helpful. Chapter 2 deals with the memory hierarchy and Chapter 3 deals with hardware for instruction level parallelism.
 * For more information on GPU computing, I recommend [CUDA by Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
