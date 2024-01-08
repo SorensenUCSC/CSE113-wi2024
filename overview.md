@@ -9,26 +9,23 @@ classes: wide
 
 ## Class Description
 
-Welcome to CSE 113: Parallel and Concurrent Programming! In this class, we will explore many aspects of parallel computing, from instruction-level parallelism in seemingly sequential programs to thread-level parallel programs that can efficiently execute across the many cores of today's multiprocessors. We will learn how to write programs that execute efficiently and correctly in concurrent environments. This class will give you the necessary foundation to solve problems using concurrency: a powerful skillset as today's computers are becoming more and more parallel.
+Welcome to CSE 113: Parallel and Concurrent Programming! In this class, we will explore many aspects of parallel computing, from instruction-level parallelism in seemingly sequential programs to thread-level parallel programs that can efficiently execute across the many cores of today's multiprocessors and accelerators (e.g., GPUs). We will learn how to write programs that execute efficiently and correctly in concurrent environments. This class will give you the necessary foundation to solve problems using concurrency: a powerful skillset given that today's computers are becoming more and more parallel.
 
 ## Teaching Staff
 
 We have a great teaching staff this quarter! All of them are passionate about parallel programming. Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
 * *Grad TAs*: 
-  * Reese Levine
   * Jessica Dagostini
-  * Devon McKee
+  * Gurpreet Dhillon
 
 
 * *Undergrad Graders/Tutors*
-  * Sanya Srivastava 
-  * Kyle Little
-  * Anish Pahilajani
+  * TBD
 
 ## Necessary Background
 
-The prerequisites for this class are CSE 12 (systems), CSE 101 (data-structures and algorithms), and recommended CSE 120 (architecture). You will need some foundation in all of those topics to succeed in this class. You will need to know data-structures and algorithms as we will extend some of these sequential concepts to their natural parallel counterparts. You will need some systems background as we will discussing many aspects of the hardware/software interface. Parallel programming is most efficiently executed on parallel hardware: Thus, it is helpful to understand shared  hardware resources (e.g. the memory hierarchy) of the underlying architectures. 
+The prerequisites for this class are CSE 12 (systems), CSE 101 (data-structures and algorithms), and recommended CSE 120 (architecture). You will need some foundation in all of those topics to succeed in this class. For example: you will need to know data-structures and algorithms, as we will extend some of these sequential concepts to their natural parallel counterparts. You will need some systems background, as we will discussing many aspects of the hardware/software interface. Parallel programming is most efficiently executed on parallel hardware: Thus, it is helpful to understand shared  hardware resources (e.g. the memory hierarchy) of the underlying architectures. 
 
 Because this is an upper division class, I do expect a general CS foundation. For the homeworks, I will assume that you are:
 
@@ -36,6 +33,8 @@ Because this is an upper division class, I do expect a general CS foundation. Fo
 - programming in a high-level language (e.g. Python)
 - programming in a low-level language (e.g. C)
 - a high-level understanding of computer architecture
+- a basic ability to use Github
+- a basic ability to use Docker
 
 ## Class Modules
 
