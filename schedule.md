@@ -32,9 +32,9 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Wed, Feb. 7     | Principles of Concurrent Objects     |  | Chapter 3
-| Mon, Feb. 12     | Specialized Concurrent Queues        |  | Class slides
-| Wed, Feb. 14     | Work Stealing                        |  | Chapter 10 + class slides
-| Wed, Feb. 21     | Concurrent Sets                      |  | Class slides
+| Mon, Feb. 12     | Midterm        |  | 
+| Wed, Feb. 14     | Specialized Concurrent Queues        |  | Class slides
+| Wed, Feb. 21     | Work Stealing                        |  | Chapter 10 + class slides
 
 ### Module 4: GPU Computing
 
@@ -50,7 +50,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 |------------------|----------|--------|----------------
 | Wed, March 6     |  Barriers                      |   | Chapter 17
 | Mon, March 11     |  Memory Consistency Models    |   | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
-| Wed, March 13     |  Forward progress             |   | [Class Slides
+| Wed, March 13     |  Forward progress             |   | Class Slides
 
 
 ## Final
