@@ -116,8 +116,8 @@ Homeworks are due at midnight on their due date, but do not plan on help after 5
 
 There will be tests in this course: a midterm and a final. The midterm will be worth as much as a single homework assignment (10%). The final will be worth 30%.
 
-The midterm will be given halfway through the class: assigned on TODO
-The final will be given on TODO
+The midterm will be given halfway through the class: assigned on Monday, Feb. 12 during class time.
+The final will be given on Monday, March. 18.
 
 You will be allowed 3 pages (front and back) of notes in any format (printed, hand-written, colored, etc). Feel free to print slides to use as your notes.
 
