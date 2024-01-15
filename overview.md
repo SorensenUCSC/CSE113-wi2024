@@ -88,7 +88,14 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA and tutor Office Hours:
 
-To be discussed (hopefully by the end of the first week!)
+#### Jessica Dagostini
+To reserve a spot - https://calendly.com/jessicadagostini/office-hours-cse113-24
+
+- **Tuesdays** - 10 am to 11 am - Remote via Zoom
+- **Wednesdays** - 1 pm to 2 pm - In-person at room BE-151
+
+#### Gurpreet Dhillon
+- TBD 
 
 ## Asynchronous Communication
 
