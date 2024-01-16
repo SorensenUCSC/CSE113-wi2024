@@ -101,6 +101,8 @@ To reserve a spot - https://calendly.com/jessicadagostini/office-hours-cse113-24
 
 For any questions outside of office hours: Please post to the class Piazza. If it is a sensitive topic, you can post only to the teaching staff. Please do not message me directly unless it is an emergency. I may not respond. 
 
+Link for Piazza is https://piazza.com/ucsc/winter2024/cse113
+
 If your question is more general, make it visible to the rest of class. If it isn't clear if it is a sensitive question or not, please start out by making the question to the teaching staff and we can advise on making it public or not. Feel free to answer questions that your classmates post or freely participate in discussions there.
 
 Please do not email us individually. Those emails get buried, or they might not be seen by the right member of the teaching staff. This especially applies to grading questions; if you have questions about your grade do *not* email a grader directly. Write a private post on Piazza to the teaching staff. Typically grades are a collaborative effort between several TAs, and it helps if we can all see the issue.
