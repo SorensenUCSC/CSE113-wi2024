@@ -95,7 +95,10 @@ To reserve a spot - https://calendly.com/jessicadagostini/office-hours-cse113-24
 - **Wednesdays** - 1 pm to 2 pm - In-person at room BE-151
 
 #### Gurpreet Dhillon
-- TBD 
+To reserve a spot - https://docs.google.com/spreadsheets/d/1D_Z7ABTYHt5sTkUaRpSM7-748l-P8LA-hbYdGugKk-I/edit?usp=sharing
+
+- **Mondays** - 12 pm to 1 pm - Remote or in-person at BE 312 C/D
+- **Fridays** - 1 pm to 3 pm - Remote or in-person at BE 151
 
 ## Asynchronous Communication
 
