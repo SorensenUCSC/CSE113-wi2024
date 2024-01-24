@@ -101,7 +101,7 @@ To reserve a spot - https://docs.google.com/spreadsheets/d/1D_Z7ABTYHt5sTkUaRpSM
 - **Fridays** - 1 pm to 3 pm - Remote or in-person at BE 151
 
 #### Jacob Dickerman
-To reserve a spot - https://docs.google.com/spreadsheets/d/1SNNFZ92bLRSw7IDEsAi6OVoyPvUdGzugjLLgtpDq5HQ/edit
+To reserve a spot - https://docs.google.com/spreadsheets/d/1SNNFZ92bLRSw7IDEsAi6OVoyPvUdGzugjLLgtpDq5HQ/edit?usp=sharing
 
 - **Thursdays** - 1:30 pm to 3 pm - Remote or in-person (locations updated in sheet)
 - **Fridays** - 11:30 am to 1 pm - Remote via Zoom
