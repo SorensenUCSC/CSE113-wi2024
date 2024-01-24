@@ -21,7 +21,7 @@ We have a great teaching staff this quarter! All of them are passionate about pa
 
 
 * *Undergrad Graders/Tutors*
-  * TBD
+  * Jacob Dickerman
 
 ## Necessary Background
 
@@ -86,7 +86,7 @@ Please sign up for only 1 slot at a time. If there is no other student waiting a
 
 The sign-up sheet is meant to provide fairness; as such I will be strict about keeping to the schedule. Please forgive any abruptness.
 
-### TA and tutor Office Hours:
+### TA and Tutor Office Hours:
 
 #### Jessica Dagostini
 To reserve a spot - https://calendly.com/jessicadagostini/office-hours-cse113-24
@@ -99,6 +99,12 @@ To reserve a spot - https://docs.google.com/spreadsheets/d/1D_Z7ABTYHt5sTkUaRpSM
 
 - **Mondays** - 12 pm to 1 pm - Remote or in-person at BE 312 C/D
 - **Fridays** - 1 pm to 3 pm - Remote or in-person at BE 151
+
+#### Jacob Dickerman
+To reserve a spot - https://docs.google.com/spreadsheets/d/1SNNFZ92bLRSw7IDEsAi6OVoyPvUdGzugjLLgtpDq5HQ/edit
+
+- **Thursdays** - 1:30 pm to 3 pm - Remote or in-person (locations updated in sheet)
+- **Fridays** - 11:30 am to 1 pm - Remote via Zoom
 
 ## Asynchronous Communication
 
