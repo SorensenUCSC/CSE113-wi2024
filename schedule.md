@@ -31,7 +31,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, Feb. 7     | Principles of Concurrent Objects     |  | Chapter 3
+| Wed, Feb. 7     | Principles of Concurrent Objects     | [slides](lectures/CSE113Feb7_wi2024.pdf)  | Chapter 3
 | Mon, Feb. 12     | Midterm        |  | 
 | Wed, Feb. 14     | Specialized Concurrent Queues        |  | Class slides
 | Wed, Feb. 21     | Work Stealing                        |  | Chapter 10 + class slides
