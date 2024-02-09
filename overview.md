@@ -22,6 +22,7 @@ We have a great teaching staff this quarter! All of them are passionate about pa
 
 * *Undergrad Graders/Tutors*
   * Jacob Dickerman
+  * Ryan Nelson
 
 ## Necessary Background
 
@@ -105,6 +106,12 @@ To reserve a spot - https://docs.google.com/spreadsheets/d/1SNNFZ92bLRSw7IDEsAi6
 
 - **Thursdays** - 1:30 pm to 3 pm - Remote or in-person (locations updated in sheet)
 - **Fridays** - 11:30 am to 1 pm - Remote via Zoom
+
+#### Ryan Nelson
+To reserve a spot - https://docs.google.com/spreadsheets/d/1sT2Ho_4ed6I6_ikUm0jvZJabPzqk1o8CRM9PGedhQ5Y/edit?usp=sharing
+
+- **Wednesdays** - 3:30 pm to 5 pm - in-person (locations updated in sheet)
+- **Thursdays** - 3:30 pm to 5 pm - Remote via Zoom
 
 ## Asynchronous Communication
 
