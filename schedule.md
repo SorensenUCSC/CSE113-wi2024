@@ -34,7 +34,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Wed, Feb. 7     | Principles of Concurrent Objects     | [slides](lectures/CSE113Feb7_wi2024.pdf)  | Chapter 3
 | Mon, Feb. 12     | Midterm        |  | 
 | Wed, Feb. 14     | Specialized Concurrent Queues        |  [slides](lectures/CSE113Feb14_wi2024.pdf) | Class slides
-| Wed, Feb. 21     | Work Stealing                        |  | Chapter 10 + class slides
+| Wed, Feb. 21     | Work Stealing                        | [slides](lectures/CSE113Feb21_wi2024.pdf)| Chapter 10 + class slides
 
 ### Module 4: GPU Computing
 
