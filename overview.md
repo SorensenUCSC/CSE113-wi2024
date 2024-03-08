@@ -110,8 +110,8 @@ To reserve a spot - https://docs.google.com/spreadsheets/d/1SNNFZ92bLRSw7IDEsAi6
 #### Ryan Nelson
 To reserve a spot - https://docs.google.com/spreadsheets/d/1sT2Ho_4ed6I6_ikUm0jvZJabPzqk1o8CRM9PGedhQ5Y/edit?usp=sharing
 
-- **Wednesdays** - 3:30 pm to 5 pm - in-person (locations updated in sheet)
-- **Thursdays** - 3:30 pm to 5 pm - Remote via Zoom
+- **Wednesdays** - 10:30 am to 12:00 pm - Remote via Zoom
+- **Thursdays** - 10:00 to 11:30 am - in-person (locations updated in sheet)
 
 ## Asynchronous Communication
 
