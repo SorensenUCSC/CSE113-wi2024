@@ -48,11 +48,11 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, March 6     |  Barriers                      |   | Chapter 17
+| Wed, March 6     |  Barriers                      | [slides](lectures/CSE113March6_wi2024.pdf)  | Chapter 17
 | Mon, March 11     |  Memory Consistency Models    |   | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Wed, March 13     |  Forward progress             |   | Class Slides
 
 
 ## Final
 
-Our final is scheduled for TODO
+Our final is scheduled for Monday, March 18	7:30–10:30 p.m.
